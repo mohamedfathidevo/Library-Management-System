@@ -1,4 +1,4 @@
-package com.mohamedfathidev.watchesrest;
+package com.mohamedfathidev.library;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

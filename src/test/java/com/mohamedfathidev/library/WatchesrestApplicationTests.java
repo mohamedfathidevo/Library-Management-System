@@ -1,4 +1,4 @@
-package com.mohamedfathidev.watchesrest;
+package com.mohamedfathidev.library;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
